@@ -4,7 +4,7 @@ I'm Jonathan, trying to be a native Android developer.
 
 My projects so far are :
 
-#### Jojoz Quizz (not public sorry)
+#### Jojoz Quizz (not public repo sorry)
 An handsome quiz for Android
 [<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>](https://play.google.com/store/apps/details?id=com.nextfor.jojozquizz&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
