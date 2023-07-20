@@ -8,6 +8,10 @@ My projects so far are :
 An handsome quiz for Android
 [<img alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png' width='200'/>](https://play.google.com/store/apps/details?id=com.nextfor.jojozquizz&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1)
 
+#### Notes App
+A simple open-source app to write notes and create To-Do tasks. Written in Kotlin and Compose.
+[Available here](https://github.com/jojoyel/compose_notes_app)
+
 #### My open-sources Android libraries (in Jetpack Compose)
 
 |Links|
